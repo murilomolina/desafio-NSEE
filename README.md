@@ -17,7 +17,7 @@ Realizando as seleções abaixo, a partir do banco.
 
 7. Retirar pacientes com IDADE menor do que 20 anos;
 
-8. Calcular a diferen ̧ca em dias entre Diagnóstico e Consulta, Tratamento e Diagnóstico,
+8. Calcular a diferença em dias entre Diagnóstico e Consulta, Tratamento e Diagnóstico,
 Tratamento e Consulta, a partir dessas 3 datas (DTCONSULT, DTDIAG e DTTRAT).
 Após o cálculo, codificar as colunas da seguinte forma:
 • CONSDIAG – 0 = até 30 dias; 1 = entre 31 e 60 dias; 2 = mais de 61 dias;
@@ -42,4 +42,4 @@ RECDIST, REC01, REC02, REC03, REC04, CIDO, DSCCIDO,
 HABILIT , HABIT11 , HABILIT1 , CIDADEH, PERDASEG
 
 ## Pré-Processamento
-Após a conclusão das etapas anteriores de preparac ao dos dados, realize o pré-processamento do conjunto de dados resultante, de forma a deix ́a-lo pronto para aplicação em um modelo de machine learning. Certifique-se de que todas as vari ́aveis estejam devidamente tratadas e adequadas para treinar um modelo. A vari ́avel de sa ́ıda a ser utilizada ́e ́obito, criada na Etapa 10.
+Após a conclusão das etapas anteriores de preparação dos dados, realize o pré-processamento do conjunto de dados resultante, de forma a deixá-lo pronto para aplicação em um modelo de machine learning. Certifique-se de que todas as variáveis estejam devidamente tratadas e adequadas para treinar um modelo. A variável de saída a ser utilizada ́e ́obito, criada na Etapa 10.
