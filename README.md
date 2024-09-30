@@ -1,4 +1,4 @@
-# Desafio-NSEE
+# Desafio-NSEE (Núcle de Sistemas Eletrônicos Embarcados) 
 ## Preparação dos dados 
 A preparação dos dados ser ́a feita a partir do Registro Hospitalar de Câncer de São Paulo,
 Realizando as seleções abaixo, a partir do banco.
